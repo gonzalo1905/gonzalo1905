@@ -18,8 +18,7 @@
 - 💻 **Full-Stack Developer** and Software Engineering student at **UPC** (top 10% of my class)
 - 🏢 Software Developer Intern at **CENS**, building production systems with Angular, .NET and SQL
 - 🤖 I like connecting software to the real world: **AI, live video and physical devices**
-- 🌎 Open to **remote or on-site roles in the US and Europe**
-  
+
 ## 🛠️ Tech stack
  
 <p align="center">
@@ -36,6 +35,18 @@
 | 🗺️ **UBICA** | Site-management platform: stored procedures, API validation and testing | SQL · REST |
  
 <sub>Work projects are private. Ask me about them, I'm happy to walk you through the architecture.</sub>
+ 
+## 🤝 Team projects I've contributed to
+ 
+| Project | What it is | My part | Stack |
+|---|---|---|---|
+| 🏋️ [CoolGym API](https://github.com/1ASI0730-2520-7426-Grupo3/Backend) · [Web](https://github.com/1ASI0730-2520-7426-Grupo3/Frontend) | Fitness equipment rental for gyms | Maintenance requests module, billing fixes, EN/ES i18n, routing and several web pages | .NET · MySQL · Vue 3 |
+| 🚨 [ResQ](https://github.com/UPC-1ASI0572-202620-16518-ResQ/resq-backend) | Fire and gas emergency alerts for buildings | Alert management, building management and IAM modules | .NET 10 · MySQL · Docker |
+| 🧊 [OsitoPolar](https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Platform) | Refrigeration equipment and technician services | Technicians module, first IAM and Profiles versions | .NET 9 · MySQL · Docker |
+| ♻️ [EcoSwap](https://github.com/EcoSwap-App/Frontend) | Second-hand product swap marketplace | Core pages, user chat and image compression | Angular · Supabase |
+| 📈 [Kouta.pe](https://github.com/Finanzas-2025-01/kouta-pe-web) | Bond valuation platform (cash flows, TCEA, TREA) | Financial instruments, hired bonds and issued bonds views | Angular · Tailwind |
+ 
+<sub>University team projects at UPC, built with Scrum and Domain-Driven Design.</sub>
  
 ## 📊 GitHub stats
  
