@@ -12,18 +12,21 @@
   <a href="mailto:gonzaloaliaga11@hotmail.com"><img src="https://img.shields.io/badge/Email-1F4E79?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=gonzalo1905&style=for-the-badge&color=1F4E79&label=PROFILE+VIEWS" />
 </p>
+
 ## 👋 About me
  
 - 💻 **Full-Stack Developer** and Software Engineering student at **UPC** (top 10% of my class)
 - 🏢 Software Developer Intern at **CENS**, building production systems with Angular, .NET and SQL
 - 🤖 I like connecting software to the real world: **AI, live video and physical devices**
 - 🌎 Open to **remote or on-site roles in the US and Europe**
+  
 ## 🛠️ Tech stack
  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,dotnet,cs,vue,html,css&perline=10" /><br/><br/>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,postman,vscode&perline=10" />
 </p>
+
 ## 🚀 What I'm working on
  
 | Project | What it does | Stack |
